@@ -1,4 +1,4 @@
-## SolvePnP
+## TrackImage in ROS
 
 ### 项目描述
 
@@ -22,4 +22,4 @@ rosrun object-camera-transform solvepnp2d3d
 rviz
 ```
 
-追踪轮廓将在rviz中出现，终端输出相机相对二维码位姿（旋转与平移向量）
+追踪轮廓将在rviz中出现
